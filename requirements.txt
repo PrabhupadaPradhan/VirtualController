@@ -1,7 +1,7 @@
+protobuf==4.25.3
 opencv-python==4.8.0.74
 mediapipe==0.10.20
 protobuf==4.24.3
 numpy==1.26.0
 streamlit==1.41.1
-protobuf==4.25.3
 pip==24.3.1
